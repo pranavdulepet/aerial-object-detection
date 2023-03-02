@@ -2,7 +2,7 @@
 
 Contextualized YOLOv5 model to detect aerial objects, specifically balloons.
 
-Here is our [presentation]{https://drive.google.com/file/d/1pMDMGtbxPL8r8ubyexeZ6U9gx2dKwEac/view?usp=share_link} at the Northrop Grumman Innovation Challenge at UMD.
+Here is our [presentation](https://drive.google.com/file/d/1pMDMGtbxPL8r8ubyexeZ6U9gx2dKwEac/view?usp=share_link) at the Northrop Grumman Innovation Challenge at UMD.
 
 ## Usage: transfer_learning_balloon.ipynb
 - Run cell 1 to clone YOLOv5 repository, switch into directory, and install all requirements
